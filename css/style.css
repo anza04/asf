@@ -11,6 +11,7 @@
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    margin-bottom: 20px;
 }
 
 .spazio{
@@ -23,7 +24,7 @@
 }
 
 .box, a{
-    font-size: 50px;
+    font-size: 20px;
     width: 50%;
     height: 100%;
     display: flex;
